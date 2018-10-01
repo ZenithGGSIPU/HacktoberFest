@@ -30,3 +30,5 @@ I can code yet committing changes here. Hence I cannot code.
 Hi there!
 
 I am Ritik Rathi!
+
+"First solve the problem,then write the code."
