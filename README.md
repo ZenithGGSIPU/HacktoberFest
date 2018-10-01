@@ -22,3 +22,4 @@ Hacktoberfest guiding values:
 Everyone is welcome
 Quantity is fun, quality is key
 Short term actions, long term impact
+5 PRs today, awesome contribution tomorrow
