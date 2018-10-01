@@ -57,4 +57,4 @@ knowlegde is power
 
 in order to be irreplaceable,one must be diffrent.
 
-
+Hey there,its better now.
