@@ -1,5 +1,9 @@
-# <h1> HacktoberFest</h1>
-Let's Celebrate Hacktober Fest with Zenith , The E-Cell GGSIPU
+# <h1> HacktoberFest :fire: </h1> 
+Let's Celebrate Hacktober Fest with Zenith , The E-Cell GGSIPU :heart_eyes:
+![42831996_1961359620576707_2140122074054656000_n](https://user-images.githubusercontent.com/43717074/46319431-ab84c800-c5f7-11e8-928a-104b0b6a5740.jpg)
+**Support Open Source And Earn a Limited Edition T-Shirt :heart_eyes:
+CHECK YOUR PROCESS :sparkles:
+ # official link - https://hacktoberfest.digitalocean.com
 
 Entrepreneurship Cell ( E-cell), GGSIPU is a student’s organization dedicated to promote the spirit of entrepreneurship among students. Our aim is to inspire students who have the inbuilt urge to innovate. We organise various events, which promote the start-up culture among youngsters.
 
