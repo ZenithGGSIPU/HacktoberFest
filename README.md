@@ -23,3 +23,4 @@ Everyone is welcome
 Quantity is fun, quality is key
 Short term actions, long term impact
 Tum sab beer ho!
+Watch pitchers on tvf play.
