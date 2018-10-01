@@ -36,9 +36,13 @@ hey, ritik here.
 I can code yet committing changes here. Hence I cannot code. 
 
 
+Experience is the name that everyone gives to their mistakes.
+
+
 hie i am shivali
 
 Hi there!
 
 I am Ritik Rathi!
+
 
