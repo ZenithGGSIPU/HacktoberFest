@@ -23,10 +23,10 @@ Everyone is welcome
 Quantity is fun, quality is key
 Short term actions, long term impact
 
-hey, ritik here. 
+
 
 I can code yet committing changes here. Hence I cannot code. 
 
 Hi there!
 
-I am Ritik Rathi!
+
