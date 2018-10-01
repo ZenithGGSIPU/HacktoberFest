@@ -12,13 +12,49 @@ Some  successful start ups of our college alumni and students are as follows:
 6.      Newshq
 
 
-##Rules
+# Rules
 
 To get a shirt, you must make five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won't count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
 
-##Values
+# Values
 Hacktoberfest guiding values:
 
 Everyone is welcome
 Quantity is fun, quality is key
 Short term actions, long term impact
+
+Tum sab beer ho!
+Watch pitchers on tvf play.
+Yoou will enjoy it.
+
+
+5 PRs today, awesome contribution tomorrow
+
+
+hey, ritik here. 
+
+I can code yet committing changes here. Hence I cannot code. 
+
+
+hi there !
+
+Experience is the name that everyone gives to their mistakes.
+
+
+hie i am shivali
+
+Hi there!
+
+I am Ritik Rathi!
+
+
+"First solve the problem,then write the code."
+
+
+
+knowlegde is power
+
+
+in order to be irreplaceable,one must be diffrent.
+
+Think differently, Think logically!!
