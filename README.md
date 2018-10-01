@@ -23,6 +23,9 @@ Everyone is welcome
 Quantity is fun, quality is key
 Short term actions, long term impact
 
+5 PRs today, awesome contribution tomorrow
+
+
 hey, ritik here. 
 
 I can code yet committing changes here. Hence I cannot code. 
@@ -30,3 +33,4 @@ I can code yet committing changes here. Hence I cannot code.
 Hi there!
 
 I am Ritik Rathi!
+
