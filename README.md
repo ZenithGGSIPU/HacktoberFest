@@ -57,8 +57,4 @@ knowlegde is power
 
 in order to be irreplaceable,one must be diffrent.
 
-<<<<<<< HEAD
-Hey there,its better now.
-=======
-Think differently, Think logically!!
->>>>>>> ca221c04bceda92ad5c151d4d58f5cf3aa4099ab
+Boring
