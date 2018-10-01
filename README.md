@@ -48,9 +48,13 @@ Hi there!
 I am Ritik Rathi!
 
 
+"First solve the problem,then write the code."
+
+
 
 knowlegde is power
 
 
 in order to be irreplaceable,one must be diffrent.
+
 
