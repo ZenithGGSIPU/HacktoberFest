@@ -47,4 +47,8 @@ I am Ritik Rathi!
 
 
 
+knowlegde is power
+
+
 in order to be irreplaceable,one must be diffrent.
+
