@@ -1,5 +1,5 @@
 # <h1> HacktoberFest</h1>
-Let's Celebrate Hacktober Fest with Zenith, The E-Cell GGSIPU
+Let's Celebrate <a href="https://hacktoberfest.digitalocean.com/Hacktober">Hacktober Fest</a> with <a href="https://www.facebook.com/ecell.ipu/">Zenith, The E-Cell GGSIPU.</a>
 
 Entrepreneurship Cell (E-cell), GGSIPU is a student’s organization dedicated to promote the spirit of entrepreneurship among students. Our aim is to inspire students who have the inbuilt urge to innovate. We organise various events, which promote the start-up culture among youngsters.
 
@@ -21,10 +21,10 @@ Some successful start ups of our college alumni and students are as follows:
 To get a shirt, you must make five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won't count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
 
 # General FAQ
-1. what is Hacktoberfest?
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+1. What is Hacktoberfest? 
+   Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
 2. How do I track my progress?
-Log in with your GitHub account at https://hacktoberfest.digitalocean.com/ to check your progress and stats.
+   Log in with your GitHub account at https://hacktoberfest.digitalocean.com/ to check your progress and stats.
 
 # Values
 Hacktoberfest guiding values:
