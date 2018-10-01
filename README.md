@@ -30,3 +30,6 @@ I can code yet committing changes here. Hence I cannot code.
 Hi there!
 
 I am Ritik Rathi!
+
+
+knowlegde is power
