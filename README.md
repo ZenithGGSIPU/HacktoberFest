@@ -23,3 +23,45 @@ Hacktoberfest guiding values:
 Everyone is welcome
 Quantity is fun, quality is key
 Short term actions, long term impact
+
+Tum sab beer ho!
+Watch pitchers on tvf play.
+Yoou will enjoy it.
+
+
+5 PRs today, awesome contribution tomorrow
+
+
+hey, ritik here. 
+
+I can code yet committing changes here. Hence I cannot code. 
+
+
+hi there !
+
+Experience is the name that everyone gives to their mistakes.
+
+
+hie i am shivali
+
+Hi there!
+
+I am Ritik Rathi!
+
+
+"First solve the problem,then write the code."
+
+
+
+knowlegde is power
+
+
+in order to be irreplaceable,one must be diffrent.
+
+
+Think differently, Think logically!!
+
+5 PR's are a great step toward to Open Source Community!!
+
+Boring
+
