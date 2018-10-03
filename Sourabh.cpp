@@ -1,1 +1,2 @@
 #include<iostream>
+int main ()
