@@ -70,7 +70,7 @@ I am Ritik Rathi!
 
 "First solve the problem,then write the code."
 
-
+We r USICTian
 
 knowlegde is power
 
