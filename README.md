@@ -58,3 +58,4 @@ knowlegde is power
 in order to be irreplaceable,one must be diffrent.
 
 Think differently, Think logically!!
+It's awesome 
