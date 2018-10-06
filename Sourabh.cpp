@@ -1,8 +1,11 @@
 
 #include<iostream>
 
-using namespace std;
+INT MAIBN
 =======
+
+using namespace std;
+
 #include<stdio.h>
 int main()
 
