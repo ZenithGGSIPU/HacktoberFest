@@ -1,6 +1,9 @@
 
 #include<iostream>
 
+int main ()
+=======
+
 int main()
   clrscr();
 int a;
@@ -22,5 +25,4 @@ int main()
     cout << "Hello World";
     return 0;
 }
-
 
