@@ -1,6 +1,11 @@
 
 #include<iostream>
 
+int main()
+  clrscr();
+int a;
+=======
+
 INT MAIBN
 =======
 
