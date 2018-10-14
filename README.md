@@ -31,6 +31,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 
 # General FAQ
 1. What is Hacktoberfest? 
+
+Hello World 
    Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
 2. How do I track my progress?
    Log in with your GitHub account at https://hacktoberfest.digitalocean.com/ to check your progress and stats.
@@ -88,6 +90,14 @@ It's awesome
 
 5 PR's are a great step toward to Open Source Community!!
 
+hi
+Boring
+hello
+=======
+
+hi
+=======
+
 
 
 The World is your Oyester!!!
@@ -98,7 +108,19 @@ ggsipu
 =======
 
 =======
+
 Boring
 Awesome!!!
 
+
+
+
+Hi There!!
+=======
+Hello
+Think Outside The Box !!!
+## HElllooo
+-  [x] opened github 
+- [] completed 5 Pr's
+-> **over**
 
