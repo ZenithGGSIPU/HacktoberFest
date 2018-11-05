@@ -128,9 +128,15 @@ Think Outside The Box !!!
 -  [x] opened github 
 - [] completed 5 Pr's
 -> **over**
-
+- Hi, there.
 
 4th PR on the way..
 =======
 
 waiting for the Limited Edition T-shirt xD
+
+First PR today
+=======
+
+It's not too late to start!
+
